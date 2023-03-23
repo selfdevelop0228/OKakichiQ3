@@ -1,0 +1,15 @@
+C:\Project\Own\ScoreManagement\ScoreManagement\bin\Debug\net6.0\ScoreManagement.exe
+C:\Project\Own\ScoreManagement\ScoreManagement\bin\Debug\net6.0\ScoreManagement.deps.json
+C:\Project\Own\ScoreManagement\ScoreManagement\bin\Debug\net6.0\ScoreManagement.runtimeconfig.json
+C:\Project\Own\ScoreManagement\ScoreManagement\bin\Debug\net6.0\ScoreManagement.dll
+C:\Project\Own\ScoreManagement\ScoreManagement\bin\Debug\net6.0\ScoreManagement.pdb
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.csproj.AssemblyReference.cache
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.AssemblyInfoInputs.cache
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.AssemblyInfo.cs
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.csproj.CoreCompileInputs.cache
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.dll
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\refint\ScoreManagement.dll
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.pdb
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ScoreManagement.genruntimeconfig.cache
+C:\Project\Own\ScoreManagement\ScoreManagement\obj\Debug\net6.0\ref\ScoreManagement.dll
